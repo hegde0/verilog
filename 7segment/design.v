@@ -1,17 +1,17 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Hegde
 // 
 // Create Date: 01.04.2024 07:22:43
-// Design Name: 
+// Design Name:decoder module 
 // Module Name: sevseg
 // Project Name: 
-// Target Devices: 
-// Tool Versions: 
+// Target Devices: Nexys-A7
+// Tool Versions: Vivado 
 // Description: 
-// 
-// Dependencies: 
+// takes binary input from sliding switches and displays hex equivalent on onboard 7-segment display 
+// Dependencies: Nexys-A7-100T-Master.xdc
 // 
 // Revision:
 // Revision 0.01 - File Created
