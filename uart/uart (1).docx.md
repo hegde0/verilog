@@ -18,7 +18,7 @@ The Universal Asynchronous Receiver-Transmitter (UART) protocol is a widely used
 
 The Digilent Nexys A7 is a development board featuring a Xilinx Artix-7 FPGA for learning and implementing digital circuits. It boasts additional processing power with Block RAM and internal clock speeds exceeding 450 MHz. For connectivity, it includes a 10/100 Mbps Ethernet port, a microSD card slot, four Pmod ports for expansion, and a 12-bit VGA output.  What truly enhances the Nexys A7's functionality is the rich set of on-board peripherals, including user input/output elements like push buttons, LEDs (including tri-color), and seven-segment displays and PMOD connectors to connect the board with external sensors and actuators. It also features audio capabilities with a microphone, speaker amplifier, and PWM audio output. Additionally, the Nexys A7 integrates sensors like a temperature sensor and a 3-axis accelerometer.
 
-![screenshot](image2)
+![screenshot1](image2)
 
 ### **PuTTY**
 
