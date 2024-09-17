@@ -12,7 +12,7 @@ Vivado IDE, PC Nexys A7 development board
 
 The Universal Asynchronous Receiver-Transmitter (UART) protocol is a widely used method for serial communication between digital devices. Unlike synchronous protocols, UART does not require a shared clock signal between the transmitter and receiver, making it suitable for asynchronous communication. In UART, data is transmitted in frames consisting of a start bit, a fixed number of data bits (typically 8 bits), an optional parity bit for error detection, and one or more stop bits. The start bit indicates the beginning of the frame and is always a logic low (0), while the stop bit(s) signal the end of the frame and are always logic high (1). The data bits carry the actual information being transmitted, with each bit representing a binary value. Parity bit, if used, is used for error checking purposes; it can be set to odd, even, or no parity to ensure data integrity. The absence of a shared clock means that the transmitter and receiver must agree on a baud rate, which determines the rate at which bits are transmitted.
 
-### **![alt text][https://github.com/hegde0/verilog/tree/main/uart/image1.png]**
+![alt text][https://github.com/hegde0/verilog/tree/main/uart/image1.png]**
 
 ### **Nexys A7**
 
