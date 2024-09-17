@@ -26,12 +26,12 @@ PuTTY is a free, open-source terminal emulator, serial console, and network file
 
 ## **System diagram**
 
-![screenshot][image3]  
+![screenshot2][image3]  
 In this project we are using a feeder mechanism which will feed the string data in bytes to uart module upon receiving rx\_ready button assertion. It will observe other flags of uart like active, done , ready for further increment in byte index and thus it will send a string of length len till it reaches the last character of the string. Once the length counter exceeds the length of the string it will stop feeding the characters. This will result in displaying the string only once.
 
 ## **Process State Diagram**
 
-![screenshot][image4]
+![screenshot3][image4]
 
 Dv —-----\> data valid signal( i\_Tx\_DV )  
 rx\_ready—\> receiver ready signal ( r\_ready )  
