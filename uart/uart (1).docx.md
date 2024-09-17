@@ -31,7 +31,7 @@ In this project we are using a feeder mechanism which will feed the string data 
 
 ## **Process State Diagram**
 
-![screenshot3][image4]
+![screenshot3][image4.png]
 
 Dv —-----\> data valid signal( i\_Tx\_DV )  
 rx\_ready—\> receiver ready signal ( r\_ready )  
@@ -117,7 +117,7 @@ Once the download is completed, open the directory where the installer executabl
 
 Once you open the installer executable, a window will appear. Click next.
 
-![screenshot][image5]
+![screenshot](image5.png)
 
 ### **Step 5:**
 
